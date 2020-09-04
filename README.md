@@ -1,2 +1,2 @@
 # Simple_Messenger
-Massenger on Python (only code)
+Messenger on Python (without inrerface)
